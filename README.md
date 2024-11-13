@@ -6,6 +6,7 @@ Me encanta la programación
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malebl)
+[![LinkedIn](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@TutoFiragon)
 
 # 💻 Tech Stack:
 
